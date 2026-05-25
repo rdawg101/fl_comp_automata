@@ -1,0 +1,3 @@
+Design a standard TM by using JFLAP over Sigma = { a , b } that reverses the order of the given string. 
+
+Example: ababb should change to bbaba. - if given an empty string (lambda), it should return an empty string 

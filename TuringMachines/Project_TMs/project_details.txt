@@ -1,0 +1,5 @@
+S26-CS154-Celino-Ronald-v4.2 is the final iteration of the project (the unary calculator) with everything implemented (had to do multiple submissions throughout the last couple of weeks of class as we had to implement specific parts each time)
+
+SW and PM (as well as DC, but we just had to debug that instead of creating it from scratch) are parts of the unary calculator we had to implement - you'll see them in the v4.2 file and can even view them from there as well (since that file holds all the turing machines that make the unary calculator work)
+
+The project_testcases folder holds the testcases for said parts we had to implement

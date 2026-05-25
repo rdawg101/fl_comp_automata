@@ -1,0 +1,3 @@
+quiz+practical is the machine we had to make for the first midterm: Design an NFA for the following language over Sigma = { a , b }.
+
+L = { w: w ends with aba }

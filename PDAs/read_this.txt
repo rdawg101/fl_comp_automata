@@ -1,0 +1,2 @@
+quiz5_pda_design is the PDA we had to design for one of the weekly quizzes: Design a PDA for the following language over Sigma = { a , b }.
+L = { a^(2n) b^(3n)  :  n >= 0 }

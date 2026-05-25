@@ -1,0 +1,3 @@
+quiz6_tmdesign is the Turing Machine we had to design for one of the weekly quizzes: Design a TM for the following language over Sigma = { a , b }.
+
+L = { w : w E Sigma* , #a = #b }       (#a means number of a's in w)

@@ -1,2 +1,2 @@
 # fl_comp_automata
-automata/machines i made for my formal language and computability class in jflap
+Automata/machines I made for my Formal Language and Computability class using the Jflap software
